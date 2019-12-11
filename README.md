@@ -1,2 +1,2 @@
 # find-close-meteorites
-Demo project with Meteorites and Nasa Data
+Demo project with Meteorites and Nasa Data by Ganesh
